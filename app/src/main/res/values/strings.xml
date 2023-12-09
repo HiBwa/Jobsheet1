@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Fikri Ramadhani</string>
+    <string name="nameEditText">Nama Mahasiswa</string>
+    <string name="buttonButton">Save</string>
+    <string name="buttonTextView">Halo %1$s</string>
+
+    <string-array name="names">
+        <item>Fikri</item>
+        <item>Ramadhani</item>
+        <item>-UNP</item>
+    </string-array>
+</resources>
